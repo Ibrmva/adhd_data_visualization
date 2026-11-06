@@ -1,0 +1,561 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,214,Nigeria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,18,Thailand,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,185,Rwanda,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,80,France,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,95,United Kingdom,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,48,Hungary,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2020,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,92,Spain,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2021,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,13,Malaysia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,86,Italy,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,191,Zambia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2022,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,6,China,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,180,Kenya,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,101,Canada,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,207,Ghana,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,62,Russian Federation,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,20,Viet Nam,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,67,Japan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,75,Austria,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,163,India,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,68,Republic of Korea,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,11,Indonesia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,135,Brazil,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,81,Germany,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,71,Australia,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,102,United States of America,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,1,Number,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,1,Male,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,28,<1 year,578,Attention-deficit/hyperactivity disorder,2,Percent,2023,0.0,0.0,0.0
